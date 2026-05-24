@@ -1,0 +1,8 @@
+Steps to start the packet sniffer
+1)Open 2 command prompt one for app.py second for sniffer.py in the same folder
+in first
+1- python3 -m venv venv
+- source venv/bin/activate
+- sudo python app.py
+
+2= sudo python sniffer.py
